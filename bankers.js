@@ -124,7 +124,7 @@ function allocate(proc) {
   }
 
   // We only want to print our list of allocations, if its equal to the length of proc array, or it wasn't completely solved.
-  if(allocated.length = proc.length) {
+  if(allocated.length == proc.length) {
     for(var i = 0; i < allocated.length; i++) {
       console.log(allocated[i]);
     }
