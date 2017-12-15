@@ -2,6 +2,7 @@
 A JavaScript implementation of Banker's Algorithm
 
 [Challenge URL](https://www.reddit.com/r/dailyprogrammer/comments/7jkfu5/20171213_challenge_344_intermediate_bankers/)
+[Working Implementation](http://www.rixium.com/JavaScript/BankersAlgorithm)
 
 ## Description:
 
